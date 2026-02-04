@@ -1,0 +1,3 @@
+doc_title,raw_positive,raw_negative,net_sentiment_raw,tfidf_positive,tfidf_negative,net_sentiment_tfidf
+Circle of Commerce,489,422,67,0.00783671257916738,0.010850832801924051,-0.003014120222756671
+Free Trade,344,281,63,0.004977566170038557,0.007761628604127915,-0.0027840624340893577

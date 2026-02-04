@@ -11,8 +11,8 @@ library(tibble)
 library(scales)
 
 # read documents
-file_a <- "texts/A07594__Circle_of_Commerce.txt"
-file_b <- "texts/B14801__Free_Trade.txt"
+file_a <- "../texts/A07594__Circle_of_Commerce.txt"
+file_b <- "../texts/B14801__Free_Trade.txt"
 
 text_a <- read_file(file_a)
 text_b <- read_file(file_b)
